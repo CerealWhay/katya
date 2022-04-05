@@ -1,5 +1,5 @@
 body {
-    background: url("/images/main-bg.jpg");
+    background: url("../images/main-bg.jpg");
 
     -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none;   /* Chrome/Safari/Opera */
