@@ -1,0 +1,16 @@
+.carousel, .carousel-inner {
+    max-height: calc(100vh - 200px);
+    max-height: -moz-calc(100vh - 200px);
+    max-height: -webkit-calc(100vh - 200px);
+}
+.carousel .carousel-indicators {
+    bottom: -50px;
+}
+
+.carousel .carousel-control-next {
+    right: -130px;
+}
+
+.carousel .carousel-control-prev {
+    left: -130px;
+}
