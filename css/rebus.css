@@ -1,0 +1,13 @@
+.rebus-sect {
+    margin-bottom: 50px;
+}
+.rebus-sect h2 {
+    font-weight: 600;
+    text-align: center;
+}
+.rebus-sect img {
+    display: block;
+    margin: 15px auto;
+    width: 50%;
+    border-radius: 50px;
+}
