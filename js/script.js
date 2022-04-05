@@ -1,0 +1,1 @@
+window.document.getElementById("qwe").style.color = "yellow";
