@@ -4,27 +4,27 @@
     min-height: 50vh;
 }
 .nav-element {
-    border-bottom: 1px solid rgba(127, 208, 255, 0.36);
+    border-bottom: 1px solid rgb(81 185 245 / 44%);
     text-decoration: none;
     display: flex;
-    background-color: #7fd0ff30;
+    background-color: #48b4f32e;
 }
 .nav-element:hover {
     text-decoration: none;
-    background-color: rgba(127, 208, 255, 0.36);
+    background-color: rgb(81 185 245 / 44%);
 }
 .nav-element:hover .nav-element_title {
-    color: rgba(33, 37, 41, 0.8);
+    color: rgba(33, 37, 41, 1);
 }
 .nav-element:nth-child(even) {
-    border-left: 1px solid rgba(127, 208, 255, 0.36);
+    border-left: 1px solid rgb(81 185 245 / 44%);
 }
 .nav-element_title {
     text-decoration: none;
     margin: auto;
     text-transform: uppercase;
     font-size: 26px;
-    color: rgba(33, 37, 41, 0.5);
+    color: rgba(33, 37, 41, 0.8);
 }
 .nav-element_title:hover {
     text-decoration: none;

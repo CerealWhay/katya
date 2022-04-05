@@ -1,5 +1,5 @@
 body {
-    background: url("../images/main-bg.jpg") fixed;
+    background: url("../images/main-bg2.jpg") fixed;
 
     -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none;   /* Chrome/Safari/Opera */
@@ -7,4 +7,21 @@ body {
     -moz-user-select: none;      /* Firefox */
     -ms-user-select: none;       /* Internet Explorer/Edge */
     user-select: none;
+
+    color: #212529 !important;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px 0 !important;
+}
+.back-link{
+    margin-bottom: 30px;
+    color: #212529;
+    position: absolute;
+    top: 15px;
+    left: 50%;
+    transform: translateX(-50%);
+
+
 }
