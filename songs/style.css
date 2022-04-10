@@ -1,0 +1,15 @@
+.song-text {
+    margin-bottom: 50px;
+}
+.song-text p {
+    margin-bottom: 0px;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+}
+.links a {
+    font-size: 24px;
+    font-weight: bold;
+    color: #212529;
+    text-decoration: underline;
+}
